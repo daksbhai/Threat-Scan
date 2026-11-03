@@ -44,25 +44,18 @@ export default function HomePage() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="space-y-6 text-center">
+                                <CardContent>
+                <div className="space-y-4 text-center">
                   <div className="flex items-center justify-center space-x-3">
-                    <a 
-                      href="https://www.linkedin.com/in/angel-kaur-kalra-1203532b0/" 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="text-cyan-400 hover:text-cyan-300 transition-colors flex items-center space-x-2"
-                    >
-                      <span className="text-gray-300 font-bold text-xl">Angel Kaur Kalra</span>
-                      <Linkedin className="w-6 h-6" />
-                    </a>
+                    <span className="text-gray-300 font-bold text-xl">Daksh</span>
                   </div>
                   <div className="flex items-center justify-center space-x-3">
                     <Mail className="w-5 h-5 text-gray-400" />
                     <a 
-                      href="mailto:kaurkalra041@gmail.com" 
+                      href="mailto:dakshsachdeva0026@gmail.com" 
                       className="text-cyan-400 hover:text-cyan-300 transition-colors text-lg font-semibold"
                     >
-                      kaurkalra041@gmail.com
+                      dakshsachdeva0026@gmail.com
                     </a>
                   </div>
                 </div>
