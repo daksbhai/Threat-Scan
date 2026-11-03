@@ -44,7 +44,6 @@ export default function HomePage() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                                <CardContent>
                 <div className="space-y-4 text-center">
                   <div className="flex items-center justify-center space-x-3">
                     <span className="text-gray-300 font-bold text-xl">Daksh</span>
