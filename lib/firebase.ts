@@ -3,13 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBDkckYIU56DIM28e3MWVNmsC6pvzO-7Wg",
-  authDomain: "threatscan-592cb.firebaseapp.com",
-  projectId: "threatscan-592cb",
-  storageBucket: "threatscan-592cb.firebasestorage.app",
-  messagingSenderId: "537228889915",
-  appId: "1:537228889915:web:458a2e48d4d26f40a1311e",
-  measurementId: "G-FTQ7LPDGEG"
+  apiKey: "AIzaSyAcoHwrb0S0Fb4TIk5_FtaeCIBTahK0miU",
+  authDomain: "threatscan-ef57c.firebaseapp.com",
+  projectId: "threatscan-ef57c",
+  storageBucket: "threatscan-ef57c.firebasestorage.app",
+  messagingSenderId: "810607960494",
+  appId: "1:810607960494:web:3d6a16f973c33ae3e0a83f"
 };
 
 // Initialize Firebase
@@ -23,5 +22,3 @@ if (!getApps().length) {
 export const auth = getAuth(app);
 export const db = getFirestore(app);
 export default app;
-
-
