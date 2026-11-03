@@ -43,7 +43,7 @@
 ---
 
 ## 🙋‍♀️ Built By
-[Angel Kaur Kalra](https://www.linkedin.com/in/angel-kaur-kalra-1203532b0/)
+Daksh — dakshsachdeva0026@gmail.com
 
 ---
 
