@@ -50,7 +50,7 @@ Daksh — dakshsachdeva0026@gmail.com
 ### Installation
 
 ```bash
-git clone https://github.com/AngelKalra06/ThreatScan.git
-cd threatscan
+git clone https://github.com/daksbhai/Threat-Scan.git
+cd Threat-Scan
 npm install
 npm run dev
